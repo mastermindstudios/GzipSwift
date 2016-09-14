@@ -362,7 +362,6 @@
 					};
 					2AE050981D4A2DC30040E4C9 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = HT3Z3A72WZ;
 						DevelopmentTeamName = "Mineko IMANISHI";
 						ProvisioningStyle = Automatic;
 					};
@@ -755,6 +754,7 @@
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = "";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -776,6 +776,7 @@
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = "";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
